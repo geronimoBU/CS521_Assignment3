@@ -1,1 +1,1 @@
-Inheriance and Encapsulation practice in Python
+Inheritance and Encapsulation practice in Python
